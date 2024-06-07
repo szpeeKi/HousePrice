@@ -1,5 +1,12 @@
 # HousePrices
 
-# Repositorio feito pra explicar o que fiz na base de HousePrices
+# Repositorio feito pra explicar o que fiz na base de HousePrices do kaggle
 
-### 1º parte: Foi feito um arquivo em que usei apenas colunas de valores numericos e troquei valores nulos para -1
+### 1º parte:
+- No modelo fiz:
+Usei apenas colunas de valores numericos
+Troquei valores nulos para -1
+- Resultado obtido no kaggle:
+0.25476
+
+
